@@ -2,7 +2,12 @@ Python applying sas formats located in an external sas catalog to imported sas t
                                                                                                                                         
 convert a sas table to a panda datafrom and apply sas formats located in a external sas cataloG.                                        
                                                                                                                                         
-  Convert "M" to "Male" and "F" to "Female in                                                                                           
+  Convert "M" to "Male" and "F" to "Female in  
+  
+github                                                                                                                      
+https://tinyurl.com/y66dgr4t                                                                                                
+https://github.com/rogerjdeangelis/utl-python-applying-sas-formats-located-in-external-sas-catalogs-to-imported-sas-tables  
+
                                                                                                                                         
 *_                   _                                                                                                                  
 (_)_ __  _ __  _   _| |_                                                                                                                
